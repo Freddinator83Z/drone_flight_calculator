@@ -10,4 +10,4 @@ I reviewed and made note of Copilot's suggestions, rejected an incorrect suggest
 
 I also reviewed the generated tests and corrected their indentation so pytest discovered all four required cases. I verified that the tests covered zero payload, a typical payload, the zero-flight-time boundary, and a negative weight input.
 
-I also Verified all tests pass using pytest.
+I also verified all tests pass using pytest.
